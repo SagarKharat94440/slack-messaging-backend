@@ -124,6 +124,25 @@ The server will start on `http://localhost:3001`.
 
 ---
 
+### Screenshot
+#send
+<img width="1447" height="944" alt="Screenshot 2025-07-28 182504" src="https://github.com/user-attachments/assets/ca8955a4-601d-41a2-a685-9e5703609a25" />
+--
+#Schedule
+<img width="1443" height="960" alt="Screenshot 2025-07-28 182737" src="https://github.com/user-attachments/assets/ed7a81d7-7054-48c3-a579-685fe2812450" />
+--
+#History
+<img width="1442" height="976" alt="Screenshot 2025-07-28 182838" src="https://github.com/user-attachments/assets/f39e0ce6-0a70-46b5-a462-d48c42aa5316" />
+
+--
+#Edit
+<img width="1453" height="984" alt="Screenshot 2025-07-28 183041" src="https://github.com/user-attachments/assets/17e77ff3-5007-4336-b6dd-03af573dd189" />
+
+--
+#Delete
+<img width="1450" height="944" alt="Screenshot 2025-07-28 183205" src="https://github.com/user-attachments/assets/780043e3-7421-42de-bdaf-26ef481ae1dd" />
+
+
 ## Testing the APIs
 
 - Use a tool like [Postman](https://www.postman.com/) or `curl` to send HTTP requests.
